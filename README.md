@@ -1,6 +1,6 @@
 # ASTR200-Spring2017
 
-This repo contains labs, prelabs, coding quizzes, and project instructions for the Spring 2019 ASTR 200 ("Practical Astronomy") course at Amherst College. Please contact Kate Follette at kfollette@amherst.edu with any questions. 
+This repo contains labs, prelabs, coding quizzes, and project instructions for the Spring 2019 ASTR 200 ("Introduction to Data Science with Astronomical Applications") course at Amherst College. Please contact Kate Follette at kfollette@amherst.edu with any questions. 
 
 These materials may be reproduced for educational purposes only. Many of the contents were adapted from publicly-available Python course materials developed by other instructors, in which case there are links at the top of the lab notebooks pointing to the original materials.  
 
