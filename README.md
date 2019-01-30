@@ -1,12 +1,12 @@
-# ASTR200-Spring2017
+# ASTR200-Spring2019
 
-This repo contains labs, prelabs, coding quizzes, and project instructions for the Spring 2019 ASTR 200 ("Practical Astronomy") course at Amherst College. Please contact Kate Follette at kfollette@amherst.edu with any questions. 
+This repo contains labs, prelabs, coding quizzes, and project instructions for the Spring 2019 ASTR 200 ("Introduction to Data Science with Astronomical Applications") course at Amherst College. Please contact Kate Follette at kfollette@amherst.edu with any questions. 
 
 These materials may be reproduced for educational purposes only. Many of the contents were adapted from publicly-available Python course materials developed by other instructors, in which case there are links at the top of the lab notebooks pointing to the original materials.  
 
-Contents of the Labs are as follows (also in labcontents.txt in Lab folder):
+Contents of the Labs are as follows:
 
-Note to students - This outline and the contents of the labs within it are subject to change. Do not begin prelabs more than 1 week before the deadline and wait to pull labs until the start of the lab period or you may not be working from the most recent version. 
+***Note to students - This outline and the contents of the repository are subject to change. Do not begin prelabs more than 1 week before the deadline and wait to pull labs until the start of the lab period or you may not be working from the most recent version. ***
 
 ## Prelab 1 -  First Steps in Python
 1. Jupyter 
@@ -14,17 +14,17 @@ Note to students - This outline and the contents of the labs within it are subje
    * Jupyter cautions
 2. Using Jupyter as a calculator
 3. Variables
-4. Arrays
+   * Defining Variables
+   * Variable Types
+   * Type Conversions
+
+## Lab 1: Operators and Arrays
+1. Operators
+2. Arrays
     * Defining arrays
     * Array manipulation
     * Multidimensional arrays
     * Array attributes
-5. Manipulating strings
-  * Special Characters
-  * Concatenating Strings
-  * Multiple Concatenations
-  * Comparing Strings
-6. Writing and Reading Files with Magic Commands
     
 ## Prelab 2: Functions and Control Flow
 1. Python Functions
