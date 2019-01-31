@@ -8,6 +8,8 @@ Contents of the Labs are as follows:
 
 ***Note to students - This outline and the contents of the repository are subject to change. Do not begin prelabs more than 1 week before the deadline and wait to pull labs until the start of the lab period or you may not be working from the most recent version. ***
 
+A change.
+
 ## Prelab 1 -  First Steps in Python
 1. Jupyter 
    * Jupyter Intro
