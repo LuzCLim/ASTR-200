@@ -40,20 +40,45 @@ A change.
   * One-line Conditionals
   * While and Iteration
   * Break Statements
-3. User-specified Input
-4. Python Return Statements
+  
+## Lab 2: Practice with Functions
+1. User-specified Input
+2. More about manipulating strings
+  * Special Characters
+  * Concatenating Strings
+  * Multiple Concatenations
+  * Comparing Strings
+3. More about conditionals
+  * One-line Conditionals
+  * Break Statements
+4. Writing and Reading Files with Magic Commands
+
+## Prelab 3: Returns and Plotting Intro
+1. Python Return Statements
   * Functions Without Returns
   * Return Statements as Code Breaks
   * Return Statements for Assigned Output
+2. Basic Python Plotting
 
-## Prelab 3 Plotting with Matplotlib
-1. Basic Python Plotting
-2. Plotting 2D Data  
+## Lab 3: Plotting!
+
+
+## Project 1 Tutorial
+1. "Lifting" Data
+2. Reading in tabular data - the basics
+
+Begin Tentative Topics
+------------------------------------
+
+## Lab 4: Advanced Plotting
+1. Plotting 2D Data  
   * Generating 2D data  
   * Contour plots  
   * Raster, or "heatmap", plots  
-3. Visualizing Differences with Overlapping Plots
-4. Multipanel Plots
+2. Visualizing Differences with Overlapping Plots
+3. Multipanel Plots
+
+
 
 ## Prelab 4 -  Advanced Data Structures
 1. Tuples
