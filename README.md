@@ -8,8 +8,6 @@ Contents of the Labs are as follows:
 
 ***Note to students - This outline and the contents of the repository are subject to change. Do not begin prelabs more than 1 week before the deadline and wait to pull labs until the start of the lab period or you may not be working from the most recent version. ***
 
-A change.
-
 ## Prelab 1 -  First Steps in Python
 1. Jupyter 
    * Jupyter Intro
@@ -37,9 +35,6 @@ A change.
   * The if statement and comparison operators
   * Iteration
   * Exception handling
-  * One-line Conditionals
-  * While and Iteration
-  * Break Statements
   
 ## Lab 2: Practice with Functions
 1. User-specified Input
@@ -60,27 +55,9 @@ A change.
   * Return Statements for Assigned Output
 2. Basic Python Plotting
 
-## Lab 3: Plotting!
+## Lab 3: Plotting and Fitting with Hubble's Law 
 
-
-## Project 1 Tutorial
-1. "Lifting" Data
-2. Reading in tabular data - the basics
-
-Begin Tentative Topics
-------------------------------------
-
-## Lab 4: Advanced Plotting
-1. Plotting 2D Data  
-  * Generating 2D data  
-  * Contour plots  
-  * Raster, or "heatmap", plots  
-2. Visualizing Differences with Overlapping Plots
-3. Multipanel Plots
-
-
-
-## Prelab 4 -  Advanced Data Structures
+## Prelab 4: Advanced Data Structures
 1. Tuples
   * Defining Tuples
   * Indexing Tuples
@@ -92,22 +69,57 @@ Begin Tentative Topics
   * Searching, Sorting and Counting Lists
   * Exploring List Methods
   * Iterating over lists
-  * The range function
   * Creating lists on the fly
 3. Sets
 4. Dictionaries
- * Defining Disctionaries
- * Dictionary Keys
- 
-## Prelab 5 - Python Tables
-1. Pandas
-2. Investigating Tabular Data with Pandas
-  * Reading in and Cleaning Data
-  * The `describe()` Method
-  * Computing Descriptive Statistics
-  * Creating Statistical Graphics
-  * Selecting a Subset of Data
+  * Defining Dictionaries
+  * Dictionary Keys
+
+## Lab 4: Practice with Advanced Data Structures and Intro to Tabular Data
+
+## Prelab 5: Intro to Pandas
+1. Pandas Basics
+  * Intro to Pandas
+  * Pandas Dataframes
+  * Reading in Tabular Data with Pandas
+2. Working with DataFrames
+  * DataFrame Methods
+  * The describe() method
+  * Computing Descriptive Statistics for DataFrame Columns
+  * Indexing DataFrames
+  * Making DataFrames
+  * Converting DataFrames to Numpy
+
+## Lab 5: Canceled due to power outage
+
+## Prelab 6: Statistics and Visualization with Pandas
+1. Creating Statistical Graphics from Pandas DataFrames
+2. Filtering/Selecting a Subset of Data
 3. Testing Differences Between Datasets
   * Computing Confidence Intervals
+  
+## Lab 6: Exercise in Comparing Data Subsets
+
+## Prelab 7: Random Numbers and DYO Bouncing Balls Demo.
+
+## Lab 7: A Simple, Monte Carlo Universe
+
+## Prelab 8
+1. Final Project Database exploration
+2. Histogram Binning Tips and Tricks
+
+## Lab 8: DYO Exoplanet Database Investigation
+
+## Prelab 9: Final Project Proposal
+
+## Lab 9: Hubble's Law Monte Carlo Exercise
+
+## Prelab 10: Final Project Prep
+
+## Lab 10: Bayesian Hypothesis Testing exercise 
+(note to instructors: this one needs some work/revision. suggestions welcome!)
+
+## Lab 11: Intro to Glue
+
 
 
